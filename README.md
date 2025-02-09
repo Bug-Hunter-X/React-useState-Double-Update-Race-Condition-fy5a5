@@ -1,0 +1,2 @@
+# React useState Double Update Race Condition
+This repository demonstrates a common race condition bug in React applications when using the `useState` hook.  The bug occurs when attempting to update state multiple times within a single event handler, causing unexpected behavior.  This example shows how to solve the problem using functional updates.
